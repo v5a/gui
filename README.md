@@ -28,24 +28,31 @@
 ---------------------------------------
 ## 整合的一个小demo
 ![图片alt](./image/7.png  "图片")
+
 文件``` gpt_gui.py ```
 ## 多页面切换
 ![图片alt](./image/1.png  "图片")
+
 文件``` switch_page.py  ```
 ## 跟随鼠标画十字辅助线
 ![图片alt](./image/2.png  "图片")
+
 文件``` draw_line.py ```
 ## 进度条
 ![图片alt](./image/3.png  "图片")
+
 文件``` process.py ```
 ## 菜单栏
 ![图片alt](./image/4.png  "图片")
+
 文件``` menu.py ```
 ## 一个窗口嵌套一个窗口
 ![图片alt](./image/5.png  "图片")
+
 文件``` child_and_child.py ```
 ## 下拉框
 ![图片alt](./image/6.png  "图片")
+
 文件``` create_list.py ```
 ## 多容器
 ![图片alt](./image/8.png  "图片")
